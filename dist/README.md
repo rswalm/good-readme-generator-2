@@ -1,10 +1,10 @@
 
-<h1 align="center">jljl 👋</h1>
+<h1 align="center">Madonna 👋</h1>
   
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
 
 ## Description
-🔍 jlj
+🔍 Biography and acheivments of Madonna , The queen of pop
 
 ## Table of Contents
 - [Description](#description)
@@ -16,28 +16,28 @@
 - [Questions](#questions)
 
 ## Installation
-💾 safd
+💾 npm install and node index.js
 
 ## Usage
-💻 ewrew
+💻 to create a readme.md for a web application project i am working on
 
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Academic license. 
 
 ## Contributing
-👪 uou
+👪 Robin Swalm
 
 ## Tests
-✏️ ewww
+✏️ no
 
 ## Questions
-✋ rrre<br />
+✋ contact the creator of this readme generator (Robin Swalm)<br />
 <br />
-:octocat: Find me on GitHub: [reee](https://github.com/reee)<br />
+:octocat: Find me on GitHub: [rswalm](https://github.com/rswalm)<br />
 <br />
-✉️ Email me with any questions: ewee<br /><br />
+✉️ Email me with any questions: robin.swalm@gmail.com<br /><br />
 
-_This README was generated with ❤️ by [README-generator](https://github.com/rswalm) 🔥🔥🔥_
+_This README was generated with love by [README-generator](https://github.com/rswalm) 🔥🔥🔥_
     
